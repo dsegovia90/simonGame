@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cli",
+				"click\t.click()"
+			],
+			[
+				"remove",
+				"removeAttr\t.removeAttr()"
+			],
+			[
+				"remo",
+				"removeAttr\t.removeAttr()"
+			],
+			[
+				"alter",
+				"alternator"
+			],
+			[
+				"rese",
+				"resetGame"
+			],
+			[
+				"player",
+				"playerOrCpu"
+			],
+			[
+				"playe",
+				"playerOrCpu"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"po",
+				"pomodoroTimeMinutes"
+			],
+			[
+				"pomodo",
+				"pomodoroTimeSeconds"
+			],
+			[
+				"pomodoroTime",
+				"pomodoroTimeMinutes"
+			],
+			[
+				"screenText",
+				"screenTextTop"
+			],
+			[
+				"screen",
+				"screenText"
+			],
+			[
+				"scree",
+				"screenText"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"btn",
+				"btn-danger"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"rd",
+				"rd"
+			],
+			[
+				"cash",
+				"cashInHand"
+			],
+			[
+				"source",
+				"sourceSize"
+			],
+			[
+				"X",
+				"X"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"get",
+				"getjson\t$.getjson()"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"pageId",
+				"pageId"
+			],
+			[
+				"search",
+				"searchQuery"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"searc",
+				"search-form"
+			],
+			[
+				"json",
+				"jQuery.getJSON\tjQuery.getJSON"
+			],
+			[
+				"Wiki",
+				"Wikipedia"
+			],
+			[
+				"ready",
+				"ready\t$(document).ready"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"lon",
+				"longitude"
+			],
+			[
+				"show",
+				"showPosition"
+			],
+			[
+				"portfolio",
+				"portfolio"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"btn-wor",
+				"btn-worked-yes"
+			],
+			[
+				"button",
+				"buttonId"
+			],
+			[
+				"btn-",
+				"btn-worked-no"
+			],
+			[
+				"radius",
+				"border-bottom-right-radius"
+			],
+			[
+				"radi",
+				"border-top-right-radius"
+			],
+			[
+				"aviso",
+				"aviso-texto"
+			],
+			[
+				"collapse",
+				"collapse-in"
+			],
+			[
+				"tex",
+				"text-written"
+			],
+			[
+				"da",
+				"daysDifference"
+			],
+			[
+				"Days",
+				"daysInThisYear"
+			],
+			[
+				"days",
+				"daysInThisYear"
+			],
+			[
+				"fir",
+				"firstDayOfTheYear"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"algi",
+				"text-align"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"complet",
+				"completeMonthsWorked"
+			],
+			[
+				"comple",
+				"completeMonthsWorked"
+			],
+			[
+				"user",
+				"userNextMonth"
+			],
+			[
+				"star",
+				"substract"
+			],
+			[
+				"firs",
+				"firstDay"
+			],
+			[
+				"day",
+				"dayStartedWorking"
+			],
+			[
+				"chec",
+				"checkBoxText"
+			],
+			[
+				"sueldo",
+				"sueldoDiario"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"a",
+				"a9b2b9"
+			],
+			[
+				"font-sty",
+				"font-style"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inn",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Daniel Segovia/Documents/Dev/Frontend/simonGame/assets/scripts/javascript.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Frontend/simonGame/index.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Frontend/simonGame/assets/stylesheets/main.css",
+		"/C/Users/Daniel Segovia/Documents/Dev/Frontend/simonGame/simonGame.sublime-project",
+		"/C/Users/Daniel Segovia/Documents/Dev/Frontend/simonGame/README.md",
+		"/C/Users/Daniel Segovia/Documents/Dev/Frontend/tictactoe/README.md",
+		"/C/Users/Daniel Segovia/Documents/Dev/Frontend/calculator/assets/scripts/javascript.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/freeCodeCamp/cashier.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/localWeather/index.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/wikipediaViewer/index.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/freeCodeCamp/symmetricDifferenceOfArrays.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/wikipediaViewer/assets/scripts/javascript.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/keysValuesTest/assets/scripts/javascript.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/twitchTV/index.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/twitchTV/assets/scripts/javascript.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/localWeather/assets/scripts/javascript.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/localWeather/assets/javascript.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/randomQuoteGenerator/assets/stylesheets/main.css",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/randomQuoteGenerator/index.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/portfolio/index.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/portfolio/assets/scripts/javascript.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/portfolio/assets/stylesheets/main.css",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/Nikola/index.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/index.html",
+		"/C/Users/Daniel Segovia/Downloads/Resume.md",
+		"/C/Users/Daniel Segovia/Downloads/win-1.7.2a-1/pixel-dungeon-1.7.2a-1/config.json",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/sitemap.xml",
+		"/C/Users/Daniel Segovia/Documents/Dev/Backend/firstDockerRails/docker-compose.yml",
+		"/C/Users/Daniel Segovia/Documents/Dev/Backend/firstDockerRails/Dockerfile",
+		"/C/Users/Daniel Segovia/Documents/Dev/Backend/firstDockerRails/Gemfile.lock",
+		"/C/Users/Daniel Segovia/Documents/Dev/Backend/firstDockerRails/Gemfile",
+		"/C/Users/Daniel Segovia/Documents/Dev/Backend/firstDockerRails/config/database.yml",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/assets/scripts/javascript.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/nosotros.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/README.md",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/assets/stylesheets/main.css",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/info.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/blog.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/CNAME",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/nav.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/nav.html.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/miaguinaldo.com/navigation.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/Bootstrap Practice/assets/stylesheets/main.css",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/Bootstrap Practice/assets/scripts/javascript.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/Bootstrap Practice/index.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/clock/app.js",
+		"/C/Users/Daniel Segovia/Documents/Dev/clock/style.css",
+		"/C/Users/Daniel Segovia/Documents/Dev/clock/index.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/styles-conference/assets/stylesheets/main.css",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/styles-conference/main.css",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/styles-conference/index.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/styles-conference/register.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/styles-conference/venue.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/styles-conference/schedule.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/styles-conference/speakers.html",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/styles-conference/styles.css",
+		"/C/Users/Daniel Segovia/Documents/Dev/Front End/First/first.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"player",
+			"button",
+			"></",
+			"i",
+			"human",
+			"7",
+			"3",
+			"0",
+			"x",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"class",
+			"top",
+			"bottom",
+			"top",
+			"center",
+			"4",
+			"col-xs-3",
+			"xs-",
+			"Minutes",
+			"btn-center",
+			"twentyMinutesLater",
+			"X",
+			"x",
+			"X",
+			"arrNum",
+			"$(this).html()",
+			"h3",
+			"p",
+			"){",
+			"screen",
+			"danger",
+			"middle",
+			"most",
+			"left",
+			"most",
+			"middle",
+			";\n",
+			"8-i",
+			"bills",
+			"search",
+			"Search",
+			"search",
+			"count",
+			"sourceSize",
+			"console",
+			"9",
+			"40",
+			"90",
+			"numLength",
+			"fcc",
+			"doublelift",
+			"comster404",
+			"Comster404",
+			"comster404",
+			"noExist",
+			"fcc",
+			"div",
+			"h3",
+			"search-results",
+			"h3",
+			"h1",
+			"i",
+			"I",
+			"i",
+			"searchQuery",
+			"data",
+			"\"",
+			"title",
+			"h1",
+			"weather.main.temp",
+			"h1",
+			");",
+			"console.log(",
+			"h1",
+			"h2",
+			"introduction",
+			"50px",
+			"input",
+			"type",
+			"Contact",
+			"30",
+			"20",
+			"65px",
+			"p",
+			"nav",
+			"Nav",
+			"nav",
+			"Nav",
+			"nav",
+			"span",
+			"></",
+			"li>",
+			"li",
+			"div",
+			">",
+			"dev",
+			"required",
+			"\"date\"",
+			"otherButton",
+			"buttonId",
+			"clickedButton",
+			"buttonId",
+			"\"btn-worked-no\"",
+			"\"btn-worked-yes\"",
+			"btn-worked",
+			"();\n",
+			"idName",
+			"p",
+			"success",
+			"right",
+			"#btn-worked-yes {\n\tborder-top-right-radius: 0;\n\tborder-bottom-right-radius: 0;\n}",
+			"h3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "simonGame.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,16 @@
+#main-container{
+	background-color: silver;
+}
+.row{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.btn:not(#start){
+	min-width: 120px;
+	min-height: 120px;
+}
+
+.btn:focus {
+  outline: none;
+}
