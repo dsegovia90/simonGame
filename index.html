@@ -5,11 +5,11 @@
 	  <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
 
 	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	  <link rel="stylesheet" type="text/css" href="assets/stylesheets/main.css">
 	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 	  <script type="text/javascript" src="assets/scripts/javascript.js" ></script>
+	  <link rel="stylesheet" type="text/css" href="assets/stylesheets/main.css">
 	  <title>Simon Game | dsego</title>
 	</head>
 	<body>
@@ -39,6 +39,16 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<button id="start" class="btn btn-default">Start!</button>
+					<button id="reset" class="btn btn-default">Reset</button>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="btn-group strict" data-toggle="buttons">
+						<label class="btn btn-default active"><input type="radio" name="options" id="strict-off" autocomplete="off" checked>Strict Off</label>
+						<label class="btn btn-default">				<input type="radio" name="options" id="strict-on" autocomplete="off"				>Strict On</label>
+					</div>
 				</div>
 			</div>
 
@@ -50,7 +60,7 @@
 
 			<div class="row">
 				<div class="col-xs-12">
-					<h3 id="round">Round: 1</h3>
+					<h3 id="round" class="animated">Round: 1</h3>
 				</div>
 			</div>
 

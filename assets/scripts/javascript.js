@@ -5,7 +5,7 @@ $(document).ready(function() {
 	}
 	var sequence = [randomize()];
 
-	//sequence = [0,1,2,3,3,2,1,0];
+	//sequence = [0,1,2,3,3,2,1,0]; For test purposes.
 	console.log(sequence);
 
 	function emulateSequence(){
@@ -23,20 +23,45 @@ $(document).ready(function() {
 	}
 
 	function showError(){
-
+		$("#round").addClass('shake');
+		$("#round").one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
+			$("#round").removeClass('shake');
+		});
+		setTimeout(emulateSequence, 2000);
 	}
 
 	function completedSequence(){
 		console.log("Finished the sequence! Adding 1 to the sequence.")
 		if (sequence.length >= 20) {
+			resetGame();
 			console.log("finished the game")
 		} else {
 			sequence.push(randomize());
+			window.setTimeout(emulateSequence, 2000);
+			$("#round").text("Round: " + sequence.length).addClass('bounce');
+			$("#round").one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
+				$("#round").removeClass('bounce');
+			});
 		}
 	}
 
+	function resetGame(){
+		sequence = [randomize()];
+		$("#round").text("Round: " + sequence.length).addClass('flash');
+		$("#round").one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
+				$("#round").removeClass('flash');
+			});
+	}
+
+	var audios = [new Audio('assets/sounds/simonSound0.mp3'), 
+								new Audio('assets/sounds/simonSound1.mp3'), 
+								new Audio('assets/sounds/simonSound2.mp3'),
+								new Audio('assets/sounds/simonSound3.mp3'),]
+
 	var index = 0;
 	$(".simon-button").click(function(event) {
+		audios[this.id].play();
+		this.blur();
 		if (this.id == sequence[index]) {  	//what to do if the button is the same as the sequence
 			console.log("Same");
 		}else{															//what o do if button is not the same as in the sequence
@@ -57,9 +82,12 @@ $(document).ready(function() {
 
 
 	$("#start").click(function(event) {
-		//$(this).attr('disabled', 'disabled');
+		// $(this).attr('disabled', 'disabled');
 		emulateSequence();
 	});
 
-
+	$("#reset").click(function(event) {
+		resetGame();
+	});
 });
+

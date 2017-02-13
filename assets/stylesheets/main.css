@@ -6,11 +6,27 @@
 	margin-bottom: 10px;
 }
 
-.btn:not(#start){
+.simon-button{
 	min-width: 120px;
 	min-height: 120px;
 }
 
 .btn:focus {
   outline: none;
+}
+
+.btn-success:hover{
+	background-color: #5cb85c;
+}
+
+.btn-danger:hover{
+	background-color: #d9534f;
+}
+
+.btn-info:hover{
+	background-color: #5bc0de;
+}
+
+.btn-default:hover{
+	background-color: #ffffff;
 }
