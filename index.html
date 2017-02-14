@@ -45,9 +45,19 @@
 
 			<div class="row">
 				<div class="col-xs-12">
-					<div class="btn-group strict" data-toggle="buttons">
-						<label class="btn btn-default active"><input type="radio" name="options" id="strict-off" autocomplete="off" checked>Strict Off</label>
-						<label class="btn btn-default">				<input type="radio" name="options" id="strict-on" autocomplete="off"				>Strict On</label>
+					<h3 id="strict-mode-text">Strict Mode: Off</h3>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="btn-group" data-toggle="buttons">
+					  <button id="strict-off" class="btn btn-default btn-strict animated active">
+					    <input type="radio" name="options"  autocomplete="off" checked>OFF
+					  </button>
+					  <button id="strict-on" class="btn btn-default btn-strict animated">
+					    <input type="radio" name="options" autocomplete="off">ON
+					  </button>
 					</div>
 				</div>
 			</div>

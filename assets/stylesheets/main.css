@@ -30,3 +30,10 @@
 .btn-default:hover{
 	background-color: #ffffff;
 }
+
+.simon-button.btn-success:disabled, 
+.simon-button.btn-danger:disabled,
+.simon-button.btn-info:disabled,
+.simon-button.btn-default:disabled{
+	opacity: 1;
+}
